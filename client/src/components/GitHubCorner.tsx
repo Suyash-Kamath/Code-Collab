@@ -7,7 +7,7 @@
 
 //     return (
 //         <a
-//             href="https://github.com/sahilatahar/CodeCollab"
+//             href="https://github.com/Suyash-Kamath/Code-Collab"
 //             className="github-corner"
 //             aria-label="View source on GitHub"
 //             target="_blank"
